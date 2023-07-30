@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(160deg,  #000000 25%, #1f1929 100%);
+    margin: 30px;
+    overflow: hidden;
+}
+
+
+h1{
+        font-family: 'Teko', sans-serif;
+        color: aliceblue;
+        font-size: 80px;
+        letter-spacing: 5px;
+        
+}
+h2{
+    font-family: 'Teko', sans-serif;
+    color: aliceblue;
+    font-size: 40px;
+    letter-spacing: 5px;
+    
+}
+h4, h3, span{
+    font-family: 'Teko', sans-serif;
+    color: aliceblue;
+    font-size: 30px;
+    letter-spacing: 5px;
+    
+}
+canvas{
+    border: 10px solid white;
+    box-shadow: white;
+    border-radius: 20px;
+    
+}
+    
